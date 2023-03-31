@@ -1,0 +1,24 @@
+.leftSide {
+  padding: 15px;
+  margin: 15px;
+}
+.leftSide_logo {
+  margin-top: 10px;
+  border: 1px solid whitesmoke;
+  width: 250px;
+  height: 50px;
+}
+.leftSide_newtour {
+  margin-top: 10px;
+  width: 250px;
+  height: 50px;
+  border: 1px solid rgb(245, 245, 245);
+}
+.leftSide_servicename {
+  border: 1px solid lightblue;
+  margin-bottom: 50px;
+  margin-top: 20px;
+  width: 250px;
+}
+.leftSide_servicename_list {
+}
